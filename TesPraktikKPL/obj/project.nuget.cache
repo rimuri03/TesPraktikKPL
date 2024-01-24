@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zhe1lAThlhrvjK86bJ7EShQJHlsLXoEnok5E+tScG1cB+I6mbzzQOekLuxye6TzmJNVQ77r3dtOX689L2Z4/bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RizkiMr\\Downloads\\Penting\\TesPraktik_KPL\\TesPraktikKPL\\TesPraktikKPL\\TesPraktikKPL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RizkiMr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\RizkiMr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RizkiMr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\RizkiMr\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\RizkiMr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\RizkiMr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\RizkiMr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
